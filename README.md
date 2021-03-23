@@ -2,7 +2,8 @@
 
 ## Adding new files
 
-Let's try keeping following catalogs sructure
+Let's try keeping following directory structure
+
 ```
 /
 |- models
